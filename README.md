@@ -2,11 +2,9 @@
 
 > _(one-line pitch: what Juno does, for whom, in one sentence)_
 
-_Your name · cohort · date_
+Artem Melokumov · AI Product Management · Oct 13-26 Cohort 
 
 This repo is my final project for the **AI Product Management Certification**. Each module's artifact lives in its own folder.
-
-**How to use this template:** click **Use this template → Create a new repository**, name it `juno-pm`, and commit one module's artifact per session. In Module 6, the **Final Project Deliverables Builder** reads these files and turns them into your final presentation.
 
 ---
 
