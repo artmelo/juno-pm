@@ -10,7 +10,9 @@ _____
 
 ## What it demonstrates
 
-_The one flow this prototype proves._
+Juno transforms a rough product idea into a structured PRD and development-ready user story, while identifying missing requirements, risks, and assumptions using the Rocketship project context.
+
+Leaves PM to focus on decisions.
 
 _____
 
