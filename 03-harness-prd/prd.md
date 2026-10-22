@@ -2,7 +2,7 @@
 
 ## Problem & user
 
-RocketShip PMs need this handled: Juno acts as RocketShip's AI Product Management Copilot. It analyzes customer feedback, support tickets, sales commitments, executive requests, and engineering constraints to produce a ranked list of product priorities (P0–P3), with strategic rationale, business impact, feasibility, risks, and recommended next actions.. Juno does this inside limits a human set on purpose, and defends every call it makes.
+RocketShip PMs need this handled: Juno acts as RocketShip's AI Product Management Copilot. It analyzes customer feedback, support tickets, sales commitments, executive requests, and engineering constraints to produce a ranked list of product priorities (P0–P3), with strategic rationale, business impact, feasibility, risks, and recommended next actions. Juno does this inside limits a human set on purpose, and defends every call it makes.
 
 ## The harness
 
@@ -17,7 +17,7 @@ RocketShip PMs need this handled: Juno acts as RocketShip's AI Product Managemen
 
 ## 01 Context · Data Requirements
 
-**Required sources, and exclusions**
+**Required sources and exclusions**
 
 Juno can read the RocketShip Product Strategy One-Pager, Product Quarterly Roadmap, Raw Signals, Engineering Capacity Note, and Sales Pipeline Snapshot. It uses these documents to understand strategic pillars, P0–P3 definitions, customer pain points, revenue risks, existing commitments, engineering capacity, and dependencies. It distinguishes verified facts from assumptions and identifies conflicting information.
 
@@ -35,7 +35,7 @@ Juno can analyze the five provided documents, extract and consolidate signals, i
 
 Juno deliberately has no write access to Jira/Azure DevOps, CRM, Slack, or the product roadmap. It cannot modify priorities, create tickets, update sales commitments, or contact stakeholders.
 
-These capabilities are excluded to prevent unauthorized changes, accidental commitments, and decisions based on incomplete information. Juno acts as a read-only Product Management Copilot, providing evidence-based recommendations while keeping final decisions and execution under the Product Manager's control.
+These limitations prevent unauthorized changes, accidental commitments, and decisions based on incomplete information. Juno acts as a read-only Product Management Copilot, providing evidence-based recommendations while keeping final decisions and execution under the Product Manager's control.
 
 ## 03 Loop · AI Costs & Latency
 
@@ -88,7 +88,7 @@ Juno cannot modify source documents or permanently store decisions without expli
 
 **Justification**
 
-Juno may independently read provided context, analyze signals, propose priorities, identify risks, and draft recommendations. It must ask for approval before changing priorities, modifying roadmap commitments, sharing information externally, contacting stakeholders, or initiating any action affecting customers or engineering teams. All decisions remain with the Product Manager.
+Juno may independently read provided context, analyze signals, propose priorities, identify risks, and draft recommendations. It must ask for approval before changing priorities, modifying roadmap commitments, sharing information externally, contacting stakeholders, or initiating any action affecting customers or engineering teams. The Product Manager retains all decision-making authority.
 
 ## 06 Verification · AI Testing & Measurement
 
@@ -112,7 +112,7 @@ Never invent data, silently omit failed checks, or automatically change prioriti
 
 Request Product Manager review before any decision based on unverified information.
 
-If critical sources are unavailable, Juno returns a structured failure summary instead of a ranked priority list. All failures remain visible to the user, and no external actions are taken.
+If critical sources are unavailable, Juno returns a structured failure summary instead of a ranked priority list. All failures remain visible to the user, and Juno takes no external actions.
 
 ## Eval plan
 
