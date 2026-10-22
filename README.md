@@ -65,7 +65,13 @@ Built around a fictional **RocketShip mission**, Juno acts as a virtual PM partn
 
 ## 🖥️ Product Preview
 
-[juno-ui-prototype.png](https://github.com/artmelo/juno-pm/blob/main/juno-ui-prototype.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/artmelo/juno-pm/main/juno-ui-prototype.png" 
+       alt="Juno AI Product Management Co-Pilot" 
+       width="650">
+  <br>
+  <em>🪐 Juno Galactic Command — AI Product Management Co-Pilot</em>
+</p>
 
 *Juno's Galactic Command interface — transforming ideas into product requirements.*
 
