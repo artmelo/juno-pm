@@ -125,7 +125,7 @@ This project applies key concepts from the Product School AI Product Management 
 
 **Build an AI co-pilot that thinks like a Product Manager, operates within clear boundaries, and helps a small team accomplish more with fewer resources.**
 
-Juno is not intended to replace the Product Manager. It is designed to extend their capabilities, accelerate execution, and improve the consistency of product decisions.
+Juno is designed to extend their capabilities, accelerate execution, and improve the consistency of product decisions.
 
 ---
 
@@ -139,8 +139,4 @@ Created for educational purposes as part of the Product School curriculum. The c
 
 [Explore Juno](https://juno-pm-prd.lovable.app/)
 
----
 
-*Built with curiosity, AI, and a little galactic ambition. 🚀*
-
-**Juno handles the drafting. The Product Manager owns the decisions.**
