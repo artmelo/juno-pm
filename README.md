@@ -12,7 +12,13 @@ This repo is my final project for the **AI Product Management Certification**. E
 - **Skill file**, [`01-prompting/skill-file.md`](01-prompting/skill-file.md)
 
 ### M2 · Prototype
-- **Prototype**, [`02-prototype/prototype.md`](02-prototype/prototype.md). Link, what it demonstrates, and debrief.
+- **Prototype**, [`02-prototype/prototype.md`](02-prototype/prototype.md). 
+
+[`https://juno-pm-prd.lovable.app/`](https://juno-pm-prd.lovable.app/)
+
+Juno transforms a rough product idea into a structured PRD and development-ready user story, while identifying missing requirements, risks, and assumptions using the Rocketship project context.
+
+Leaves PM to focus on decisions.
 
 ### M3 · Harness / AI PRD
 - **AI PRD**, [`03-harness-prd/prd.md`](03-harness-prd/prd.md)
