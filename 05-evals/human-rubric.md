@@ -23,14 +23,16 @@
 
 Average score of 4 out of 5 or higher across scaled questions, with no score below 3, and all deal-breaker questions passing.
 
+**Evaluation Method**
+
+The Product Manager and Engineering Lead evaluate Juno-generated PRDs against the same predefined rubric.
+A passing PRD must be actionable, grounded in verified RocketShip context, and sufficiently clear for engineering planning without major rework.
+Evaluation includes time spent reviewing and correcting Juno's output, not just the quality of its initial draft. Repeated clarification requests from Engineering are tracked as a signal of missing or ambiguous requirements.
+
 **Fails outright, whatever the average:**
 
 - Constraint Compliance: any score of 1
 - Evidence & Decision Reliability: any "no"
 - Fabricated evidence, violation of RocketShip's critical constraints, unauthorized decisions, or failure to escalate safety-critical risks automatically fail the evaluation, regardless of the overall score.
 
-**Evaluation Method**
 
-The Product Manager and Engineering Lead evaluate Juno-generated PRDs against the same predefined rubric.
-A passing PRD must be actionable, grounded in verified RocketShip context, and sufficiently clear for engineering planning without major rework.
-Evaluation includes time spent reviewing and correcting Juno's output, not just the quality of its initial draft. Repeated clarification requests from Engineering are tracked as a signal of missing or ambiguous requirements.
