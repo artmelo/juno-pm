@@ -2,7 +2,9 @@
 
 ## Problem & user
 
-RocketShip PMs need this handled: Juno acts as RocketShip's AI Product Management Copilot. It analyzes customer feedback, support tickets, sales commitments, executive requests, and engineering constraints to produce a ranked list of product priorities (P0–P3), with strategic rationale, business impact, feasibility, risks, and recommended next actions. Juno does this inside limits a human set on purpose, and defends every call it makes.
+RocketShip PMs operate with limited time, engineering capacity, and resources. Turning rough product ideas into clear, actionable requirements requires understanding mission priorities, existing commitments, operational constraints, and dependencies.
+Juno acts as RocketShip's AI Product Management Copilot, transforming rough ideas into structured PRDs and development-ready user stories. It validates available context, identifies gaps and risks, proposes priorities (P0–P3), and provides evidence-based recommendations for PM review.
+Juno drafts and recommends but never independently approves scope, priorities, resource commitments, or implementation decisions.
 
 ## The harness
 
