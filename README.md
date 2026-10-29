@@ -24,8 +24,7 @@ This repo is my final project for the **AI Product Management Certification**. E
 - **Human eval rubric**, [`05-evals/human-rubric.md`](05-evals/human-rubric.md). The lab, in class.
 
 ### M6 · Prove AI Impact with Ongoing Metrics
-- **Final presentation**, [`final-presentation.html`](final-presentation.html). Built in the **Final Project Deliverables Builder** from the files above, then committed here. Submit this repo's URL and the presentation (its GitHub Pages link or the file) on the Learning Platform.
-
+- **Final presentation**, [`final-presentation.html`](final-presentation.html). Built in the **Final Project Deliverables Builder** from the files above, then committed here. 
 ---
 
 ## Repo structure
